@@ -31,6 +31,7 @@ VALUES
     
 UPDATE professores SET idade = 40 WHERE id = 2;
 UPDATE professores SET idade = 38 WHERE id = 3;
+UPDATE professores SET nome = 'Prof. Ricardo' WHERE id = 3;
     
 CREATE TABLE matriculas(
 id int auto_increment PRIMARY KEY,
