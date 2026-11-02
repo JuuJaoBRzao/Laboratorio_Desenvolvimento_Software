@@ -1,3 +1,4 @@
+```sql
 create database BDAula01;
 
 show databases;
@@ -31,3 +32,4 @@ CREATE TABLE veiculo (
 );
 
 select * from pessoa;
+```
